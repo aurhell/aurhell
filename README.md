@@ -1,4 +1,11 @@
-### Hi there 👋
+### Yo ! 🤘
+
+- I'm a front-end developer 👨‍💻
+- Dad 👨‍🍼
+- Biker 🏍
+- Drummer 🥁
+- Surfer 🏄‍♂️
+- Gamer 🕹
 
 <!--
 **aurhell/aurhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
