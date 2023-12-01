@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a **sustainability reporting Vue app**
 - 🤫 Also working on an **awesome agile app** with some friends !
 - 🚀 Working daily with **[Vue](https://vuejs.org/)**, **[Typescript](https://www.typescriptlang.org/)** and **[Tailwind](https://tailwindcss.com/)**
-- 🌱 I’m currently learning **[AdonisJS]([https://vuejs.org/](https://adonisjs.com/))** and **[React]([https://tailwindcss.com/](https://react.dev/))**
+- 🌱 I’m currently learning **[AdonisJS](https://adonisjs.com/)** and **[React](https://react.dev/)**
 - ✍ Maybe I'll blog on my [personal website](https://agirault.com) some day
 - 📫 How to reach me: contact@agirault.com
 - 😄 Pronouns: he/him
