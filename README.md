@@ -6,14 +6,13 @@
 ## I love Vue ecosystem, markdown and emoji \o/
 
   
-- 🔭 I’m currently working on a **sustainability reporting Vue app**
+- 🔭 I’m currently working on a **EHS app**
 - 🤫 Also working on an **awesome agile app** with some friends !
 - 🚀 Working daily with **[Vue](https://vuejs.org/)**, **[Typescript](https://www.typescriptlang.org/)** and **[Tailwind](https://tailwindcss.com/)**
 - 🌱 I’m currently learning **[AdonisJS](https://adonisjs.com/)** and **[React](https://react.dev/)**
 - ✍ Maybe I'll blog on my [personal website](https://agirault.com) some day
-- 📫 How to reach me: contact@agirault.com
+- 📫 How to reach me: contact@aureliengirault.dev
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 86 is my favourite beer
 
 <!--
 **aurhell/aurhell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
