@@ -2,15 +2,15 @@
 
 >I'm a front-end developer 👨‍💻
 >
-> also a Dad 👨‍🍼 - Biker 🏍 - Drummer 🥁 - Surfer 🏄‍♂️ - Gamer 🕹
+> also a Dad 👨‍🍼 - Versus-fighting player 🕹 - Biker 🏍 - Drummer 🥁 - Surfer 🏄‍♂️ - Spider lover 🕷️ - Home automation addict 🏠
 ## I love Vue ecosystem, markdown and emoji \o/
 
   
-- 🔭 I’m currently working on a **EHS app**
+- 🔭 I’m currently working at [Deepki](https://www.deepki.com/fr/)
 - 🤫 Also working on an **awesome agile app** with some friends !
 - 🚀 Working daily with **[Vue](https://vuejs.org/)**, **[Typescript](https://www.typescriptlang.org/)** and **[Tailwind](https://tailwindcss.com/)**
 - 🌱 I’m currently learning **[AdonisJS](https://adonisjs.com/)** and **[React](https://react.dev/)**
-- ✍ Maybe I'll blog on my [personal website](https://agirault.com) some day
+- ✍ Maybe I'll blog on my [personal website](https://aureliengirault.dev) some day
 - 📫 How to reach me: contact@aureliengirault.dev
 - 😄 Pronouns: he/him
 
