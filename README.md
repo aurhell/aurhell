@@ -1,9 +1,8 @@
 # Yo ! 🤘
-
->I'm a front-end developer 👨‍💻
+## I'm a front-end developer 👨‍💻
 >
 > also a Dad 👨‍🍼 - Versus-fighting player 🕹 - Biker 🏍 - Drummer 🥁 - Surfer 🏄‍♂️ - Spider lover 🕷️ - Home automation addict 🏠
-## I love Vue ecosystem, markdown and emoji \o/
+### I love Vue ecosystem, markdown and emoji \o/
 
   
 - 🔭 I’m currently working at [Deepki](https://www.deepki.com/fr/)
